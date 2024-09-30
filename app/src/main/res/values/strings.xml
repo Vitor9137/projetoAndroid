@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">1</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Hello World</string>
+    <string name="second_fragment_label">Criando meu primeiro App</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        O Clube Atlético Mineiro é o maior de Minas Gerais. 
+        Nós somos do Clube Atlético Mineiro
+        Jogamos com muita raça e amor
+        Vibramos com alegria nas vitórias
+        Clube Atlético Mineiro
+        Galo Forte Vingador
+
+        Vencer, vencer, vencer
+        Este é o nosso ideal
+        Honramos o nome de Minas
+        No cenário esportivo mundial
+
+        Lutar, lutar, lutar
+        Pelos gramados do mundo pra vencer
+        Clube Atlético Mineiro
+        Uma vez até morrer
+
+        Nós somos campeões do gelo
+        O nosso time é imortal
+        Nós somos campeões dos Campeões
+        Somos o orgulho do esporte nacional
+
+        Lutar, lutar, lutar
+        Com toda nossa raça pra vencer
+        Clube Atlético Mineiro
+        Uma vez até morrer
+        Clube Atlético Mineiro
+        Uma vez até morrer
+
+        Nós somos campeões do gelo
+        O nosso time é imortal
+        Nós somos campeões dos Campeões
+        Somos o orgulho do esporte nacional
+
+        Lutar, lutar, lutar
+        Com toda nossa raça pra vencer
+        Clube Atlético Mineiro
+        Uma vez até morrer
+        Clube Atlético Mineiro
+        Uma vez até morrer
+    </string>
+</resources>
